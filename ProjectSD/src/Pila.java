@@ -8,5 +8,8 @@
  * @author 50662
  */
 public class Pila {
+
+    public Pila() {
+    }
     
 }
