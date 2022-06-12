@@ -9,5 +9,8 @@
  * @author ricardo
  */
 public class Cola {
-    
+public Cola(){
+
+}
+
 }
